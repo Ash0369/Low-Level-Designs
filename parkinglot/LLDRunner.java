@@ -51,7 +51,7 @@ public class LLDRunner {
 
         System.out.println("-----------------------------------");
         parkingLot.displayPakringLot();
-        System.out.println("-----------------------------------");
+        System.out.println("------------------------------------");
 
 
         while (true){
@@ -102,6 +102,7 @@ public class LLDRunner {
                 System.out.println("-----------------------------------");
                 parkingLot.displayPakringLot();
                 System.out.println("-----------------------------------");
+
             }
         }
 
