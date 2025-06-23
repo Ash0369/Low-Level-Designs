@@ -1,4 +1,6 @@
+import java.util.List;
+
 public interface Commentable {
     void addComment(Comment comment);
-    List<Comment>getComments();
+    List<Comment> getComments();
 }
